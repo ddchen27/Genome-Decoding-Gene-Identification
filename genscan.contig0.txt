@@ -1,0 +1,65 @@
+GENSCAN 1.0	Date run:  7-Dec-118	Time: 11:02:51
+Sequence /tmp/12_07_18-11:02:51.fasta : 20350 bp : 48.25% C+G : Isochore 2 (43 - 51 C+G%)
+Parameter matrix: HumanIso.smat
+
+Predicted genes/exons:
+Gn.Ex Type S .Begin ...End .Len Fr Ph I/Ac Do/T CodRg P.... Tscr..
+----- ---- - ------ ------ ---- -- -- ---- ---- ----- ----- ------
+
+ 1.03 PlyA -   1043   1038    6                               1.05
+
+ 1.02 Term -   7917   7777  141  0  0   97   40    82 0.498   2.23
+
+ 1.01 Init -  10144  10034  111  1  0   74   42   173 0.561  11.51
+
+ 1.00 Prom -  14733  14694   40                              -1.46
+
+
+
+ 2.02 PlyA -  16942  16937    6                               1.05
+
+ 2.01 Sngl -  18596  18204  393  2  0   54   54   842 0.909  73.64
+
+ 2.00 Prom -  18690  18651   40                             -16.78
+
+
+
+ 3.00 Prom +  18848  18887   40                             -10.45
+
+ 3.01 Sngl +  18909  19289  381  2  0   91   54   930 0.919  86.07
+
+
+
+Suboptimal exons with probability > 1.000
+
+Exnum Type S .Begin ...End .Len Fr Ph B/Ac Do/T CodRg P.... Tscr..
+
+----- ---- - ------ ------ ---- -- -- ---- ---- ----- ----- ------
+NO EXONS FOUND AT GIVEN PROBABILITY CUTOFF
+Predicted peptide sequence(s):
+
+>/tmp/12_07_18-11:02:51.fasta|GENSCAN_predicted_peptide_1|83_aa
+
+MKKIEDSNTLVITVDVKAKKHQIKQAVKKLCDINVAKFQVPSAALRRGVFALWALPRLLL
+
+QVCSPTAAFPVLRDHRPPGALCL
+
+
+
+>/tmp/12_07_18-11:02:51.fasta|GENSCAN_predicted_peptide_2|130_aa
+
+MSGRGKQGGKARAKAKSRSSRAGLQFPVGRVHRLLRKGNYSERVGAGAPVYLAAVLEYLT
+
+AEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKK
+
+TESHHKAKGK
+
+
+
+>/tmp/12_07_18-11:02:51.fasta|GENSCAN_predicted_peptide_3|126_aa
+
+MPDPSKSAPAPKKGSKKAVTKAQKKDGKKRKRGRKESYSIYVYKVLKQVHPDTGISSKAM
+
+GIMNSFVNDIFERIASEASRLAHYNKRSTITSREVQTAVRLLLPGELAKHAVSEGTKAVT
+
+KYTSSK

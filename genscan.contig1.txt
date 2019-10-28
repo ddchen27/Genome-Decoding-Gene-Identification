@@ -1,0 +1,30 @@
+GENSCAN 1.0	Date run:  7-Dec-118	Time: 12:03:22
+
+Sequence /tmp/12_07_18-12:03:22.fasta : 14171 bp : 47.78% C+G : Isochore 2 (43 - 51 C+G%)
+
+Parameter matrix: HumanIso.smat
+Predicted genes/exons:
+Gn.Ex Type S .Begin ...End .Len Fr Ph I/Ac Do/T CodRg P.... Tscr..
+
+----- ---- - ------ ------ ---- -- -- ---- ---- ----- ----- ------
+
+ 1.01 Init -    358      8  351  1  0   65    8   673 0.398  54.16
+
+ 1.00 Prom -    430    391   40                              -2.16
+
+Suboptimal exons with probability > 1.000
+
+Exnum Type S .Begin ...End .Len Fr Ph B/Ac Do/T CodRg P.... Tscr..
+
+----- ---- - ------ ------ ---- -- -- ---- ---- ----- ----- ------
+
+NO EXONS FOUND AT GIVEN PROBABILITY CUTOFF
+
+Predicted peptide sequence(s):
+
+
+>/tmp/12_07_18-12:03:22.fasta|GENSCAN_predicted_peptide_1|117_aa
+
+MARTKQTARKSTGGKAPRKQLATKVARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+
+LLIRKLPFQRLMREIAQDFKTDLRFQSSAVMALQEACESYLVGLFEDTNLCVIHAKR
